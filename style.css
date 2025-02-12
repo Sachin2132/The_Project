@@ -50,10 +50,10 @@
   }
   .section--1 {
     background-color: #1f2937;
-    padding: 50px;
+    padding: 30px;
   }
   .section--1 .wrapper {
-    gap: 50px;
+    gap: 40px;
   }
   .section--1 .header {
     width: 100%;
